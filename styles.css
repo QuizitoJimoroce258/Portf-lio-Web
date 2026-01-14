@@ -383,6 +383,7 @@ body {
   padding: 2rem;
   background-color: #1a1f28;
   border: 1px solid #2a3142;
+  text-align: center;
   border-radius: 0.5rem;
   transition: border-color 0.3s ease;
 }
