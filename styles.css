@@ -393,7 +393,18 @@ body {
 
 .service-icon {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin: 0 auto;
+  height: 70px;
+  width: 70px;
+  background-color: #ffc001;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+}
+.service-icon img {
+  width: 35px;
+  height: 35px;
+  margin: 0 auto;
 }
 
 .service-title {
