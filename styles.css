@@ -563,15 +563,18 @@ body {
 }
 
 .btnvermais {
-  background-color: #fcc001;
+
   border-radius: 50px;
   width: 140px;
   height: 30px;
   display: flex;
   align-items: center;
   margin-top: 1.5rem;
-  color:#080e15;
+  border: 2px solid #ffc001;
+  color: #ffc001;
+  background-color: transparent;
   text-decoration: none;
+  text-align: center;
 }
 
 /*.portfolio-placeholder img {
