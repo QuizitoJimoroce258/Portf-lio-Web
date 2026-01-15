@@ -412,6 +412,7 @@ body {
   font-weight: 600;
   color: #ffffff;
   font-size: 1.125rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   transition: color 0.3s ease;
 }
@@ -560,6 +561,17 @@ body {
   color: #a0a9b8;
   transition: all 0.3s ease;
 }
+
+.btnvermais {
+  background-color: #fcc001;
+  border-radius: 10%;
+  width: 70px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
 /*.portfolio-placeholder img {
   height: auto;
   width: 400px;
