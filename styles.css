@@ -567,8 +567,6 @@ body {
   border-radius: 50px;
   width: 140px;
   height: 30px;
-  display: flex;
-  align-items: center;
   margin-top: 1.5rem;
   border: 2px solid #ffc001;
   color: #ffc001;
@@ -576,7 +574,10 @@ body {
   text-decoration: none;
   text-align: center;
 }
-
+.btnvermais:hover {
+  background-color: #ffc001;
+  color: #080e15;
+}
 /*.portfolio-placeholder img {
   height: auto;
   width: 400px;
