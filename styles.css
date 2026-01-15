@@ -570,6 +570,7 @@ body {
   display: flex;
   align-items: center;
   margin-top: 1.5rem;
+  color:#080e15;
 }
 
 /*.portfolio-placeholder img {
