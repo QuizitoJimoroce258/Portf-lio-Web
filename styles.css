@@ -565,11 +565,12 @@ body {
 .btnvermais {
   background-color: #fcc001;
   border-radius: 10%;
-  width: 70px;
-  height: auto;
+  width: 140px;
+  height: 30px;
   display: flex;
   align-items: center;
   margin: 0 auto;
+  margin-top: 1rem;
 }
 
 /*.portfolio-placeholder img {
