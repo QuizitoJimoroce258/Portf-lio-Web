@@ -571,6 +571,7 @@ body {
   align-items: center;
   margin-top: 1.5rem;
   color:#080e15;
+  text-decoration: none;
 }
 
 /*.portfolio-placeholder img {
