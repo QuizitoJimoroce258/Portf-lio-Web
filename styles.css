@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+se/* Reset and Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -183,7 +183,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 1rem;
-  color: #ffffff;
+  color: #ffc001;
   text-decoration: none;
   transition: all 0.3s ease;
 }
@@ -563,6 +563,7 @@ body {
 }
 
 .btnvermais {
+  padding: 0.75rem 1.5rem;
   border-radius: 50px;
   font-weight: 600;
   font-size: 0.875rem;
@@ -571,7 +572,6 @@ body {
   text-transform: uppercase;
   border-radius: 50px;
   width: 140px;
-  heigh: 35px;
   margin-top: 25px;
   border: 2px solid #ffc001;
   color: #ffc001;
