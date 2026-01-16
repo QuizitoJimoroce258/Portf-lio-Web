@@ -563,10 +563,16 @@ body {
 }
 
 .btnvermais {
-
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
   border-radius: 50px;
   width: 140px;
-  height: 20px;
+  heigh: 25px;
   margin-top: 25px;
   border: 2px solid #ffc001;
   color: #ffc001;
