@@ -857,7 +857,7 @@ body {
 }
 
 @media (max-width: 640px) {
-  .hero-conteiner{
+  .hero-container{
     margin: 0 auto;
   }
   .hero-title {
