@@ -241,7 +241,7 @@ body {
 
 .btn-primary:hover {
   background-color: #ffcc33;
- transform: scale(1.5);
+ transform: scale(1.0);
   
 }
 
