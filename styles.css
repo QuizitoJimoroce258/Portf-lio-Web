@@ -564,7 +564,7 @@ body {
 }
 
 .btnvermais {
-  /*padding: 0.75rem 1.5rem;*/
+  padding: 0.75rem 1.5rem;
   border-radius: 50px;
   font-weight: 600;
   font-size: 0.875rem;
@@ -573,8 +573,8 @@ body {
   text-transform: uppercase;
   border-radius: 50px;
   width: 140px;
-  height: 30px;
-  /*margin: 0 auto;*/
+  /*height: 50px;*/
+  margin: 0 auto;
   border: 2px solid #ffc001;
   color: #ffc001;
   background-color: transparent;
