@@ -557,7 +557,7 @@ body {
 
 .portfolio-placeholder {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: flex;
   object-fit: contain;
   object-position: center;
@@ -589,10 +589,9 @@ body {
   background-color: #ffc001;
   color: #080e15;
 }
-/*.portfolio-placeholder img {
+.portfolio-placeholder img {
   height: auto;
   width: 400px;
-}*/
 
 .portfolio-item:hover .portfolio-placeholder {
   color: #ffc001;
