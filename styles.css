@@ -748,6 +748,7 @@ body {
 }
 
 .footer-links {
+  text-decoration: none;
   list-style: none;
 }
 
