@@ -754,6 +754,7 @@ body {
 
 .footer-links li {
   margin-bottom: 0.75rem;
+  list-style: nome;
 }
 
 .footer-links a {
