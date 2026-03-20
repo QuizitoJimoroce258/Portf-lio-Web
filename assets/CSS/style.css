@@ -1,4 +1,4 @@
-se/* Reset and Base Styles */
+/* Reset and Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -735,6 +735,7 @@ body {
   text-decoration: none;
   font-size: 2rem;
   font-weight: 100;
+  list-style: none;
   transition: transform 0.3s ease;
 }
 
